@@ -11,6 +11,11 @@
     max-width: 64px;
 }
 
+.media-left img {
+    width: 100px;
+    height: 100px;
+}
+
 .video-detail .details {
     margin-top: 10px;
     padding: 10px;
